@@ -4,6 +4,6 @@ metadata:
   name: myapp
 data:
   index.html: |
-    <h1>Hello human USER!</h1>
+    <h1>Hello SUPERKUKI human USER!</h1>
     Congratulations! <p>
     This is a superkuki app!
