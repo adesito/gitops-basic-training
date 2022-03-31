@@ -1,2 +1,2 @@
 # gitops-basic-training
-This is a course of ARGOCD
+This is a course of ARGOCD!!!!!
